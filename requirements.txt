@@ -1,0 +1,22 @@
+# Streamlit UI
+streamlit>=1.37.0
+
+# Data handling
+pandas>=2.2.2
+numpy>=1.26.4
+
+# ML
+scikit-learn>=1.4.2
+tensorflow>=2.17.0
+
+# Finance data
+yfinance>=0.2.41
+
+# Plotting
+matplotlib>=3.9.1
+
+# Authentication for Streamlit
+streamlit-authenticator>=0.4.2
+
+# PDF generation
+reportlab>=4.0
