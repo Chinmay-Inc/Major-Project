@@ -14,6 +14,8 @@ yfinance>=0.2.41
 
 # Plotting
 matplotlib>=3.9.1
+plotly
+
 
 # Authentication for Streamlit
 streamlit-authenticator>=0.4.2
